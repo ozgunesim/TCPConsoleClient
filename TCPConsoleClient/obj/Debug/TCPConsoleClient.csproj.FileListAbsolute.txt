@@ -1,0 +1,6 @@
+D:\C#\TCPConsoleClient\TCPConsoleClient\bin\Debug\TCPConsoleClient.exe.config
+D:\C#\TCPConsoleClient\TCPConsoleClient\bin\Debug\TCPConsoleClient.exe
+D:\C#\TCPConsoleClient\TCPConsoleClient\bin\Debug\TCPConsoleClient.pdb
+D:\C#\TCPConsoleClient\TCPConsoleClient\obj\Debug\TCPConsoleClient.exe
+D:\C#\TCPConsoleClient\TCPConsoleClient\obj\Debug\TCPConsoleClient.pdb
+D:\C#\TCPConsoleClient\TCPConsoleClient\obj\Debug\TCPConsoleClient.csprojResolveAssemblyReference.cache
